@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Textures">
+      <UniqueIdentifier>{a5a1e187-bcf8-48de-8576-4668f44a3882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sounds">
+      <UniqueIdentifier>{38aebfac-3fba-4c92-ab62-1442d96dca26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fonts">
+      <UniqueIdentifier>{7f1fb807-2726-4183-a144-f0742ffd9371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sounds\Music">
+      <UniqueIdentifier>{ac46cfc6-fb5a-496d-969f-191e4a3289a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LevelLayouts">
+      <UniqueIdentifier>{d1513405-f44d-4497-84ba-3383be2bcc9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{efe4df79-1e6a-4d08-a155-aa07fff4f3f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{a7164941-3633-444e-b0a1-6958b9adc752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{c1255d36-3f39-4ad1-a63d-ccb7d3c4bf7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{c2456fcb-78cd-4084-b814-e5a21bc0ac0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures\Player">
+      <UniqueIdentifier>{4fe3d4e8-a83b-4473-908b-015b976f3699}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures\Background Art">
+      <UniqueIdentifier>{9b2e1306-8fb6-4b55-84a1-b25b36988318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures\Enemies">
+      <UniqueIdentifier>{bd731515-a01f-4b6d-94c7-521fd92a78eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures\UI">
+      <UniqueIdentifier>{43510c18-ee78-4e2e-ba63-2fbc2749467d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="High Score">
+      <UniqueIdentifier>{d133a37a-214b-43b6-9c0f-1f897c48c744}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSound.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateEnum.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameText.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicManager.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="EmissionDirectionEnum.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBase.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButton.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuManager.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerObject.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectileManager.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreManager.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Shield.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSound.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameText.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicManager.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBase.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButton.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuManager.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerObject.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileManager.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreManager.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Shield.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Textures\ButtonBase.png">
+      <Filter>Textures</Filter>
+    </Image>
+    <Image Include="Textures\SubmarineSprite.png">
+      <Filter>Textures\Player</Filter>
+    </Image>
+    <Image Include="Textures\TorpedoSprite.png">
+      <Filter>Textures\Player</Filter>
+    </Image>
+    <Image Include="Textures\BackgroundArt.png">
+      <Filter>Textures\Background Art</Filter>
+    </Image>
+    <Image Include="Textures\MainMenuArt.png">
+      <Filter>Textures\Background Art</Filter>
+    </Image>
+    <Image Include="Textures\BasicEnemy.png">
+      <Filter>Textures\Enemies</Filter>
+    </Image>
+    <Image Include="Textures\EnemyProjectile.png">
+      <Filter>Textures\Enemies</Filter>
+    </Image>
+    <Image Include="Textures\EnemyVariant01.png">
+      <Filter>Textures\Enemies</Filter>
+    </Image>
+    <Image Include="Textures\MissingTexture.png">
+      <Filter>Textures\UI</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Sounds\ButtonClick.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\DefaultSound.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\EnemyFire.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\FireWeapon.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\SubmarineDestroyed.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="Sounds\Music\MainMenuTheme.mp3">
+      <Filter>Sounds\Music</Filter>
+    </Media>
+    <Media Include="Sounds\Music\GameOverTheme.wav">
+      <Filter>Sounds\Music</Filter>
+    </Media>
+    <Media Include="Sounds\Music\InGameTheme.wav">
+      <Filter>Sounds\Music</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Fonts\AtlantisInlineGrunge.ttf">
+      <Filter>Fonts</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LevelLayouts\BasicLayout.txt">
+      <Filter>LevelLayouts</Filter>
+    </Text>
+    <Text Include="HighScores\HighScores.txt">
+      <Filter>High Score</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

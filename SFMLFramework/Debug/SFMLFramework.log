@@ -1,0 +1,37 @@
+﻿  EnemyBase.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\EnemyBase.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  EnemyManager.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\EnemyBase.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  Game.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\EnemyBase.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  GameObject.cpp
+c1xx : fatal error C1083: Cannot open source file: 'GameObject.cpp': No such file or directory
+  GameSound.cpp
+c1xx : fatal error C1083: Cannot open source file: 'GameSound.cpp': No such file or directory
+  GameText.cpp
+c1xx : fatal error C1083: Cannot open source file: 'GameText.cpp': No such file or directory
+  Main.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\EnemyBase.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  MenuButton.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\MenuButton.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  MenuManager.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\MenuButton.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  MusicManager.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\MusicManager.h(6,10): fatal error C1083: Cannot open include file: 'GameSound.h': No such file or directory
+  Particle.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Particle.cpp': No such file or directory
+  ParticleSystem.cpp
+c1xx : fatal error C1083: Cannot open source file: 'ParticleSystem.cpp': No such file or directory
+  PlayerObject.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\PlayerObject.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  Projectile.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\Projectile.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  ProjectileManager.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\Projectile.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  ScoreManager.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\ScoreManager.h(9,10): fatal error C1083: Cannot open include file: 'GameText.h': No such file or directory
+  Shield.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\Shield.h(4,10): fatal error C1083: Cannot open include file: 'GameObject.h': No such file or directory
+  UIManager.cpp
+E:\Documents\University\Year 2\Module 8\Assignment\Software Artefact Submission\SFMLFramework\SFMLFramework\UIManager.h(6,10): fatal error C1083: Cannot open include file: 'GameText.h': No such file or directory
+  Generating Code...
